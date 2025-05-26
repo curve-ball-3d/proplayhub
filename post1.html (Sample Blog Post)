@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top 5 Tips to Improve Your Gameplay - Game Info Hub</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header>
+  <h1>Game Info Hub</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="blog.html">Blog</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+<div class="container">
+  <h2>Top 5 Tips to Improve Your Gameplay</h2>
+  <p>Improving your gaming skills takes dedication and practice. Here are some useful tips:</p>
+  <ol>
+    <li>Practice regularly to build muscle memory.</li>
+    <li>Watch tutorials and professional gameplay videos.</li>
+    <li>Join gaming communities and forums.</li>
+    <li>Keep your gaming setup comfortable and distraction-free.</li>
+    <li>Take breaks and stay hydrated to avoid burnout.</li>
+  </ol>
+  <p>Keep these tips in mind and enjoy better gaming sessions!</p>
+</div>
+<footer>
+  &copy; 2025 Game Info Hub. All rights reserved.
+</footer>
+</body>
+</html>
