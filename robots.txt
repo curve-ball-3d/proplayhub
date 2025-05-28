@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rana12-ui.github.io/proplayhub/sitemap.xml
+Sitemap:  https://curve-ball-3d.github.io/proplayhub//sitemap.xml
