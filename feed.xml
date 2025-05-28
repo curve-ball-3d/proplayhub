@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Game Info Hub Blog</title>
+    <link>https://rana12-ui.github.io/proplayhub/</link>
+    <description>Latest gaming news, tips, and gear reviews.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Top 5 Tips to Improve Your Gameplay</title>
+      <link>https://rana12-ui.github.io/proplayhub/post1.html</link>
+      <description>Boost your gaming performance with these expert tips.</description>
+      <pubDate>Tue, 28 May 2025 11:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Add more <item> blocks for more posts -->
+  </channel>
+</rss>
