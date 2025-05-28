@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rana12-ui.github.io/proplayhub/sitemap.xml
