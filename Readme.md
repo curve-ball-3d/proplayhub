@@ -15,7 +15,7 @@ This website provides informative blogs on improving gameplay, upcoming game rel
 ## How to view
 
 You can view the live website here:  
-https://rana12-ui.github.io/proplayhub/
+ https://curve-ball-3d.github.io/proplayhub/
 
 ## How to contribute
 
