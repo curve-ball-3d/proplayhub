@@ -3,7 +3,7 @@
 Welcome to ProPlayHub, your ultimate source for gaming tips, news, and gear reviews.
 
 🔗 Visit the live site: https://curve-ball-3d.github.io/proplayhub/  
-📂 GitHub repo: https://github.com/curve-ball-3d/proplayhub
+
 
 ---
 
